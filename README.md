@@ -3,10 +3,11 @@
 # Model Framework
 ![image alt](https://github.com/muntasirmahmud1/Joint_Channel_Equalization_Symbol_Detection/blob/a47cd919741ffab74ad6b8e52edc29b941cf6483/Images/model%20framework.png)
 
-#Symbol Detection Results
+# Symbol Detection Results
 ![image alt](https://github.com/muntasirmahmud1/Joint_Channel_Equalization_Symbol_Detection/blob/95f5f7bdf6415b1def4a2db4dd84faf6f8d1f0e6/Images/confusion%20matrix.png)
 
-#Cite
+# Cite
+
 M. Mahmud, M. Younis, M. Ahmed and F. -S. Choa, "Deep Learning-Based Joint Channel Equalization and Symbol Detection for Air-Water Optoacoustic Communications," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2024.3480036.
 
 @ARTICLE{10716545,
