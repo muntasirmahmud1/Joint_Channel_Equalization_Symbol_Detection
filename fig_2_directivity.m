@@ -10,7 +10,6 @@ data3 = readmatrix(fullfile(directory3, 'original_tek0534CH1.csv'));
 data3 = [data3(47001:50000); data3(1:47000)];
 t = 0.00001:0.00001:0.5;
 
-
 nexttile
 plot (t,data,'k','linewidth',1.5);
 %legend('90 Degree')

@@ -42,6 +42,7 @@ class ConvNet1d(nn.Module):
         x = F.softmax(x)
         return x
 
+
 class ConvNet2d(nn.Module):
     def __init__(self):
         super(ConvNet2d, self).__init__()
