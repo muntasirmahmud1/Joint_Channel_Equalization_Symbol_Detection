@@ -32,3 +32,4 @@ class uwdataset(torch.utils.data.Dataset):
         return torch.as_tensor(data.copy()).to(torch.float32).contiguous(), torch.as_tensor(label)
     def __len__(self):
         return len(self.path_list)
+        
